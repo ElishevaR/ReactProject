@@ -18,7 +18,7 @@ const AdminBusinessToShow = observer(() => {
               component="img"
               alt="logo"
               height="140"
-              src="/images/logo.jpg"
+              src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPlv7PuoCGxkjMaZFh7tCPdXRg0Z316V12bGUOs4gs5HVY5eoKj1ZvYw4Hv2O89fybTNdZor6RlihEbJcO8ups78FDXTc6Aoh2R_rScU0iTovUpjqWr8ngwzl_uTGfS8eQfVyJ6aTfpm4&usqp=CAc"
               image={BusinessData.buisness.logo}
             />
           </Card>
