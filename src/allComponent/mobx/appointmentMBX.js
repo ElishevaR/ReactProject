@@ -49,7 +49,7 @@ class AppointmentMBX {
         else {
             this.setIsAdd(false)
         }
-
+        
     }
 }
 export default new AppointmentMBX();

@@ -18,7 +18,9 @@ const AdminBusinessToShow = observer(() => {
               component="img"
               alt="logo"
               height="140"
-              src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSPlv7PuoCGxkjMaZFh7tCPdXRg0Z316V12bGUOs4gs5HVY5eoKj1ZvYw4Hv2O89fybTNdZor6RlihEbJcO8ups78FDXTc6Aoh2R_rScU0iTovUpjqWr8ngwzl_uTGfS8eQfVyJ6aTfpm4&usqp=CAc"
+               src="/images/logo.jpg"
+              //  ברירת מחדל יפה
+              // src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F03%2F16%2F21%2F18%2Flogo-2150297_640.png&tbnid=geKaFCLVQIB4oM&vet=1&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Flogo%2F&docid=bVXxrJ-DMFgyIM&w=640&h=640&source=sh%2Fx%2Fim%2Fm1%2F1"
               image={BusinessData.buisness.logo}
             />
           </Card>
